@@ -8,8 +8,10 @@ This database consisted of one table with multiple datatypes. This was a smaller
 
 ## Executive Summary 
  Over the past year, our total impressions reached 76.3 million, while conversions peaked at 288,000. Although we have a strong hold on our target audience, there is a large opportunity for improvements on user retention to increase conversion rates. 
+ 
 To achieve this, I recommend conducting a deeper evaluation of underperforming campaigns. Analyzing our past launches , such as the Q2/Q3 summer campaign and our Black Friday Campaigns should reveal key factors that are limiting growth. 
-On the other hand, high-preforming campaigns such as 	CMP00230 generated 99.5k impressions and 461 conversions. Going over these top launches will provide valuable information on effective strategies. By scaling these attributes, we can have a better understanding of the user’s perspective. Combining these improvement and pushing our upcoming projects through Facebook and TikTok will drive stronger conversion rates for the new year.
+On the other hand, high-preforming campaigns such as 	CMP00230 generated 99.5k impressions and 461 conversions. Going over these top launches will provide valuable information on effective strategies.
+By scaling these attributes, we can have a better understanding of the user’s perspective. Combining these improvement and pushing our upcoming projects through Facebook and TikTok will drive stronger conversion rates for the new year.
 
 <img width="1300" height="725" alt="Mpress Dasboard" src="https://github.com/user-attachments/assets/06e19806-9f42-4283-aab6-289bf7ce0bb1" />
 
