@@ -1,7 +1,5 @@
 # Project Background 
-Mpress is an e-commerce company specializing in custom printed products. The company runs multiple ad campaigns which vary in performance.
-
-As the company is entering Q1, stakeholders are seeking insights on which campaigns the company should create, continue, or end. This project transforms a unstructured database into clear insights, using SQL and PowerBI.
+Mpress is an e-commerce company specializing in custom printed products. The company runs multiple ad campaigns which vary in performance.As the company is entering Q1, stakeholders are seeking insights on which campaigns the company should create, continue, or end. This project transforms a unstructured database into clear insights, using SQL and PowerBI.
 
 ## Data Structure 
 This database consisted of one table with multiple datatypes. This was a smaller database, only containing 2000 records. The database given was messy with NULL values, inconsistent wording, and incorrect date/time formatting. This was corrected by multiple SQL queries to clean the data.
