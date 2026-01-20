@@ -1,1 +1,1 @@
-
+This folder consists of multiple SQL-based projects focused on data cleaning and exploratory analysis. Each query curated to address business related questions. The results are then presented in visually engaging PowerBI dashboards.
