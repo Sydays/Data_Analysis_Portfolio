@@ -6,6 +6,8 @@ Next Check is an e-commerce website that sells a large variety of items. It is t
 
 This database was messy with duplicates, incorrect data types, and inconsistent wording. The data was structured with multiple tables containing specific information on various corners of the company. The database held around 90,000 records. The data were cleaned, explored and brought to life using SQL.
 
+[Link to SQL code](https://github.com/Sydays/Data_Analysis_Portfolio/blob/main/SQL%20%26%20PowerBI/Performance%20Project/NextDay.sql)
+
 <img width="849" height="527" alt="Screenshot 2026-01-18 120808" src="https://github.com/user-attachments/assets/12793583-f4f0-406e-a64c-faa151bb5da9" />
 
 ## Executive Summery 
