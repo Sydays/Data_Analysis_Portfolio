@@ -12,7 +12,7 @@ This database was messy with duplicates, incorrect data types, and inconsistent 
 
 ## Executive Summery 
 
-Next Check generated approximately $24 million in revenue, curated by 89,000 orders. Customers on average spent $268.00 per order. Sales peaked in August, followed by a decline as the company approaches Q4. This pattern aligns with the previous year. Based on last year’s trend, revenue is expected to increase by the end of the month. 
+  Next Check generated approximately $24 million in revenue, curated by 89,000 orders. Customers on average spent $268.00 per order. Sales peaked in August, followed by a decline as the company approaches Q4. This pattern aligns with the previous year. Based on last year’s trend, revenue is expected to increase by the end of the month. 
 
 Order volume increased following the launch of the Next Day delivery advertising campaign. This generated 564 additional orders. This lets us know that faster delivery influences customer purchasing behavior. 
 
